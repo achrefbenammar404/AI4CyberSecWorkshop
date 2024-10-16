@@ -118,7 +118,15 @@ Both datasets are located in the `src/data/` folder.
 
 1. **Introduction to AI and Cybersecurity**:
    - Overview of how AI can enhance cybersecurity and common AI techniques.
-   
+    <div style="text-align: center;">
+        <img src="resources/6.jpg" alt="6thSlide" width="800"/>
+    </div>
+
+    <div style="text-align: center;">
+        <img src="resources/7.jpg" alt="7thSlide" width="800"/>
+    </div>
+
+
 2. **Supervised Learning in Cybersecurity**:
    - Explanation of classification (malware detection) and regression (time to compromise prediction).
    
