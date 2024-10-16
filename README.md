@@ -44,7 +44,7 @@ This repository is organized as follows:
 
 ### Slides
 - The **Slides** folder contains the workshop presentation slides: 
-  - [AI in Cybersecurity Slides](.\slides\AI_in_Cybersecurity_Slides.pdf)
+  - [AI in Cybersecurity Slides](/slides/AI_in_Cybersecurity_Slides.pdf)
 
 ### src
 - The **src** directory contains the **Jupyter notebooks** and **datasets** used for the hands-on exercises:
